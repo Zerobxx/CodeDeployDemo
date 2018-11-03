@@ -1,2 +1,2 @@
 #!/bin/bash
-apt install -y apache2 && mv /var/www/html/index.html /var/www/html/index.html.bak
+sudo apt install -y apache2 && sudo mv /var/www/html/index.html /var/www/html/index.html.bak
